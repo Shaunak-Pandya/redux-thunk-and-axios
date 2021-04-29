@@ -1,0 +1,16 @@
+{
+  "name": "redux-thunk-axios",
+  "version": "1.0.0",
+  "description": "Hands on Middleware - Thunk, API using Axios and Async operation in Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaunak Pandya",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "redux": "^4.1.0",
+    "redux-thunk": "^2.3.0"
+  }
+}
